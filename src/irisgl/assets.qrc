@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/shaders/shadow_map.vert</file>
+        <file>assets/shaders/shadow_map.frag</file>
+        <file>assets/shaders/fullscreen.vert</file>
+        <file>assets/shaders/fullscreen.frag</file>
+        <file>assets/shaders/default_material.vert</file>
+        <file>assets/shaders/default_material.frag</file>
+        <file>assets/shaders/defaultsky.vert</file>
+        <file>assets/shaders/defaultsky.frag</file>
+        <file>assets/shaders/color.vert</file>
+        <file>assets/shaders/color.frag</file>
+        <file>assets/shaders/billboard.frag</file>
+        <file>assets/shaders/billboard.vert</file>
+        <file>assets/models/head.png</file>
+        <file>assets/models/head.obj</file>
+        <file>assets/shaders/viewer.frag</file>
+        <file>assets/shaders/viewer.vert</file>
+        <file>assets/textures/default_particle.jpg</file>
+        <file>assets/models/cube.obj</file>
+        <file>assets/shaders/surface.vert</file>
+        <file>assets/shaders/surface.frag</file>
+    </qresource>
+</RCC>
